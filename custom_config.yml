@@ -1,7 +1,7 @@
 directories:
-  mirror_module_path: True
-  removed_mirror_prefix: "/Users/grant/cs/videos/"
-  base: "/Users/grant/3Blue1Brown Dropbox/3Blue1Brown/"
+  mirror_module_path: False
+  removed_mirror_prefix: "/Users/test/Code/Manim_videos/"
+  base: "/Users/test/Code/Manim_videos/output/"
   subdirs:
     raster_images: "images/raster"
     vector_images: "images/vector"
