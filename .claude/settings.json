@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(PATH=\"/Users/test/Library/TinyTeX/bin/universal-darwin:$PATH\" manimgl:*)"
+    ]
+  }
+}
